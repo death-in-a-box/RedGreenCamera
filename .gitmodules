@@ -1,0 +1,4 @@
+[submodule "UVCCamera"]
+	path = UVCCamera
+	url = https://github.com/death-in-a-box/UVCCamera
+	branch = dualcamera
